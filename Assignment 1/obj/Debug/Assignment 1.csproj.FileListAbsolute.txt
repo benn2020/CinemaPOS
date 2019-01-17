@@ -1,0 +1,21 @@
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\tille\AppData\Local\Temporary Projects\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\tille\OneDrive\Documents\Uni\Year 1\Intro to Programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\tille\Documents\Uni\Intro to programming\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
