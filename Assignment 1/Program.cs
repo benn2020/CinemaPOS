@@ -162,7 +162,7 @@ namespace Assignment_1
             Console.ReadLine();
         }
 
-        //Tells how many seats left by taking in movie choice 
+        //Tells how many seats left by taking in movie choice
         public static int SeatsLeft(int screenSelection, int screenOneSeats, int screenTwoSeats)
         {
             if(screenSelection == 1)
